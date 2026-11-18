@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.agents/
+*.py[cod]
+.DS_Store
+artifacts/*
+!artifacts/.gitkeep
+data/*
+!data/.gitkeep
+reports/generated/test_predictions.csv
